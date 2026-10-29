@@ -13,3 +13,11 @@ Como contexto del problema, es una persona que puede comprar 10 productos. Ha es
 Entre las clases, existe una dependencia, ya que la clase CarroCompra depende de la clase Calculadora.
 Aquí se puede ver una representación utilizando Visual Paradigm.
 
+![diagramaUML](/imagenes/imagenUML.png)
+
+## Imagenes del codigo generado
+### Clase CarroCompra
+![imagenCodigoClaseCarroCompra](/imagenes/codigoGeneradoCarroCompra.png)
+### Clase Calculadora
+![imagenCodigoClaseCalculadora1](/imagenes/codigGeneradoCalc1.png)
+![imagenCodigoClaseCalculadora2](/imagenes/codigoGeneradoCalc2.png)
